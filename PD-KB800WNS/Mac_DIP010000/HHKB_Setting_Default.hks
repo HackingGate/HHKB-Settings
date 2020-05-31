@@ -1,8 +1,7 @@
 {
-  "ToolVersion": "1.0.0.21",
-  "KeyboardLayout": 1,
-  "TypeNumber": "PD-KB800WNS",
-  "DipSwitch": [
+  "ToolVersion" : "1.1.0.0",
+  "KeyboardLayout" : 1,
+  "DipSwitch" : [
     false,
     true,
     false,
@@ -10,8 +9,8 @@
     false,
     false
   ],
-  "Keymap": {
-    "Normal": [
+  "Keymap" : {
+    "Normal" : [
       0,
       230,
       231,
@@ -141,7 +140,7 @@
       0,
       0
     ],
-    "WithFn": [
+    "WithFn" : [
       0,
       230,
       231,
@@ -271,5 +270,6 @@
       0,
       0
     ]
-  }
+  },
+  "TypeNumber" : "PD-KB800WNS"
 }
